@@ -1,4 +1,4 @@
-Form add Tokens in file config.json
+Form add Tokens in file configs/tokens/config.json
 
 {
   "baseCurrency": "AUD",
