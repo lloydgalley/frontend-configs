@@ -1,5 +1,5 @@
 {
-  "baseCurrency": "AUD",
-  "rates": [ { "address": 0xF966c6E8D29e97918c2de720Ff332CCcbE3f0fE0, "perToken": 0.01 },
+  "baseCurrency": "",
+  "rates": [
   ]
 }
