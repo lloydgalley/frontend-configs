@@ -1,5 +1,5 @@
 {
-  "baseCurrency": "",
-  "rates": [
+  "baseCurrency": "AUD",
+  "rates": [ { "address": 0xF966c6E8D29e97918c2de720Ff332CCcbE3f0fE0, "name": "VOICE", "symbol": "VCE", "decimals": 18, "rate": 99.999999, "perToken": 0.01 },
   ]
 }
