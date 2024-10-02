@@ -1,4 +1,7 @@
 {
   "baseCurrency": "AUD",
-  "rates":[{"address":"0xF966c6E8D29e97918c2de720Ff332CCcbE3f0fE0","name":"VOICE","symbol":"VCE","decimals":18,"rate":100.0000,"perToken":0.01},{"address":"0xe13De91de53Ea4e253b089fc01B127C211FeF5A5","name":"FiBo Share","symbol":"FBS","decimals":18,"rate":10,"perToken":0.10}]
+  "rates":[
+    {"address":"0xF966c6E8D29e97918c2de720Ff332CCcbE3f0fE0","name":"VOICE","symbol":"VCE","decimals":18,"rate":100.0000,"perToken":0.01},
+    {"address":"0xe13De91de53Ea4e253b089fc01B127C211FeF5A5","name":"FiBo Share","symbol":"FBS","decimals":18,"rate":10,"perToken":0.10}
+  ]
 }
